@@ -1,7 +1,2 @@
 34
-Deseja continuar? [S/N]s
-34
-número duplicado. Tente novamente.
-Deseja continuar? [S/N]s
-12
-Deseja continuar? [S/N]n
+
